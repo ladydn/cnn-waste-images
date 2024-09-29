@@ -1,21 +1,21 @@
 UNIVERSIDAD NACIONAL DE SAN ANTONIO ABAD DEL CUSCO
 Ingenieria Informatica de Sistemas
 
-# TRABAJO DE INVESTIGACION - ALGORITMO
+### TRABAJO DE INVESTIGACION - ALGORITMO
 
-# Datos de la estudiante
+### Datos de la estudiante
 Nombre: Lady Diana Quinto Catachura
 Codigo: 171066
 
-# Algoritmos de aprediaje utilizados
+### Algoritmos de aprediaje utilizados
 Redes neuronales convolucionales(CNN)
 Aprendizaje por transferencia (Transfer Learning)
 
-# Tecnologia utlizanda
+### Tecnologia utlizanda
 
 Google colaboratory
 
-# Base de datos
+### Base de datos
 
 Los datos para el entrenamiento, fueron extraidos desde la pagina de Kaggle. Las siguientes Urls son las rutas de donde es extrageron los datos.
 
