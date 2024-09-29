@@ -1,6 +1,3 @@
-UNIVERSIDAD NACIONAL DE SAN ANTONIO ABAD DEL CUSCO
-Ingenieria Informatica de Sistemas
-
 ### TRABAJO DE INVESTIGACION - ALGORITMO
 
 ### Datos de la estudiante
